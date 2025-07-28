@@ -102,4 +102,5 @@ count_entry.pack()
 
 tk.Button(root, text="شروع گرفتن شغل‌ها", command=start_thread).pack(pady=20)
 
+
 root.mainloop()
